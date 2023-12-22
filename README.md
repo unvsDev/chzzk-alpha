@@ -1,7 +1,7 @@
 # CHZZK Alpha
 <div>
-<img width="300" src="https://github.com/unvsDev/chzzk-alpha/assets/63099769/8f9f9e59-5a58-4924-bc0f-5ed94b0f4cf1">
-<img width="300" src="https://github.com/unvsDev/chzzk-alpha/assets/63099769/aa744c08-3de4-4c8e-a65e-08343e8bd5ae">
+<img width="300" src="https://github.com/unvsDev/chzzk-alpha/assets/63099769/4c1f580e-8d6c-4859-ac27-5f240c9f7ef0">
+<img width="300" src="https://github.com/unvsDev/chzzk-alpha/assets/63099769/9f57d2d4-ff40-4a21-8bcb-99d667f34e9c">
 </div>
 
 ## Read me!
@@ -16,5 +16,5 @@
 ## Widget
 - iOS 14 이상에서 사용할 수 있는 [Scriptable](https://apps.apple.com/kr/app/scriptable/id1405459188) 위젯입니다.
 - [치지직](https://chzzk.naver.com) 스트리머를 위젯에 추가하여 **방송 상태, 플레이 중인 게임, 바로가기 등**을 표시할 수 있습니다.
-- 정보 제공처의 사정에 의해 서비스 내용이 변경될 수 있습니다. 본 프로젝트는 특정 단체 또는 스트리머와 관련이 없습니다.
+- 정보 제공처의 사정에 의해 서비스 내용이 변경될 수 있습니다. 본 프로젝트는 **특정 단체 또는 스트리머와 관련이 없습니다.**
 - 본 위젯은 자동 업데이트가 지원됩니다.
